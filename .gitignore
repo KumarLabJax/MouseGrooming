@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+*.npy
+*.h5
+*.hdf5
+*.avi
